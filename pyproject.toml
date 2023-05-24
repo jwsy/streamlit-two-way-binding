@@ -6,8 +6,8 @@ authors = ["Jason Yee <446031+jwsy@users.noreply.github.com>"]
 readme = "README.md"
 
 [tool.poetry.dependencies]
-python = "^3.11"
-streamlit = "^1.22"
+python = "^3.9"
+streamlit = "^1.19"
 
 [build-system]
 requires = ["poetry-core"]
